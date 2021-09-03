@@ -3,6 +3,10 @@
 
 @import url("standard.css");
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	border-top: 5px solid #E94FBC;
 	font-family: 'Abel', sans-serif;
